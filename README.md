@@ -1,5 +1,7 @@
-# 💻 Daniel Tham:
+# 💻 Daniel Tham
+
 **`Data and AI-Driven Programmer`**
+
 As an aspiring programmer working with data and artificial intelligence, I am always hopeful and excited about what breakthroughs in tech are there to learn about!
 
 [![Linkedin: dtham14](https://img.shields.io/badge/-dtham14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dtham14/)](https://www.linkedin.com/in/dtham14/)
