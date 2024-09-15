@@ -22,5 +22,10 @@ daniel = {
     "hobbies": ["Piano, Chess, Running"],
 }
 ```
-
+<!--
+<details>
+ <summary><h3>👨‍💻 Daniel's Programming Updates</h3></summary>
+   Sept 14, 2024
+   - Exploring various web scraping techniques to create a web scrapper to scrape game data 
+-->
 
