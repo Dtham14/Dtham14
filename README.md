@@ -25,6 +25,6 @@ daniel = {
 
 <details>
  <summary><h3>👨‍💻 What I'm Learning</h3></summary>
-   - Exploring various web scraping techniques to create a web scrapper to scrape game data <br />
+   - BeautifulSoup, Selenium, Scrapy for a web scrapping and crawling project <br />
    - Statistics and Data Science  
 
