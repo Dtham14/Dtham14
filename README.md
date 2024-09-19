@@ -25,6 +25,6 @@ daniel = {
 
 <details>
  <summary><h3>👨‍💻 What I'm Learning</h3></summary>
-   - Exploring various web scraping techniques to create a web scrapper to scrape game data 
+   - Exploring various web scraping techniques to create a web scrapper to scrape game data\n
    - Statistics and Data Science  
 
