@@ -1,6 +1,6 @@
 # 💻 Daniel Tham
 
-**`Data and AI-Driven Programmer`**
+**`Data and AI-Driven Software Developer`**
 
 As an aspiring programmer working with data and artificial intelligence, I am always hopeful and excited about what breakthroughs in tech are there to learn about!
 
@@ -24,7 +24,7 @@ daniel = {
 ```
 
 <details>
- <summary><h3>👨‍💻 Daniel's Programming Updates</h3></summary>
-   Sept 14, 2024
+ <summary><h3>👨‍💻 What I'm Learning</h3></summary>
    - Exploring various web scraping techniques to create a web scrapper to scrape game data 
+   - Statistics and Data Science  
 
