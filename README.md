@@ -1,30 +1,59 @@
 # 💻 Daniel Tham
 
-**`Data and AI-Driven Software Developer`**
+**`AI & Full-Stack Software Developer | Educator`**
 
-As an aspiring programmer working with data and artificial intelligence, I am always hopeful and excited about what breakthroughs in tech are there to learn about!
+I build intelligent, user-focused applications at the intersection of **AI, data, and education**.  
+My work spans **AI-powered web apps, backend systems, and interactive learning tools**, with a strong emphasis on real-world usability, clean architecture, and scalability.
 
-[![Linkedin: dtham14](https://img.shields.io/badge/-dtham14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dtham14/)](https://www.linkedin.com/in/dtham14/)
+I enjoy turning complex ideas—like music theory, personalization, and automation—into **practical, engaging software**.
+
+[![Linkedin: dtham14](https://img.shields.io/badge/-dtham14-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dtham14/)
 [![GitHub dtham14](https://img.shields.io/github/followers/dtham14?label=follow&style=social)](https://github.com/Dtham14)
 
 ---
 
-### Learn more about me...  
+## 🧠 About Me
 
 ```python
 daniel = {
-    "pronouns": ["he", "him"],
-    "experiences": ["Software Developer, Coding Tutor"],
-    "languages": ["Python, R, SQL, HTML, CSS, JavaScript, Java, C, C++"],
-    "libraries": ["Numpy, Pandas, ScikitLearn, TensorFlow, Seaborn, Keras, PyTorch"], 
-    "technologies": ["MySQL, Microsoft SQL Server, Spark, Hadoop, MongoDB, Flask, Docker"],
-    "softwareDevelopment": ["Scrum, Agile, Pair Programming"],
-    "hobbies": ["Piano, Chess, Running"],
+    "role": ["AI Software Developer", "Full-Stack Engineer", "STEM Educator"],
+    "focus": [
+        "AI-powered applications",
+        "Data-driven systems",
+        "Educational technology"
+    ],
+    "languages": [
+        "Python", "TypeScript", "JavaScript",
+        "SQL", "HTML", "CSS"
+    ],
+    "ai_ml": [
+        "LLMs (OpenAI, Llama, Ollama)",
+        "LangChain / LangGraph",
+        "Vector Databases (ChromaDB)",
+        "Embeddings & RAG",
+        "Model evaluation & prompt design"
+    ],
+    "web_stack": [
+        "Next.js (App Router)",
+        "React",
+        "Tailwind CSS",
+        "FastAPI",
+        "REST APIs"
+    ],
+    "data": [
+        "PostgreSQL", "SQLite",
+        "Prisma", "Drizzle ORM",
+        "Pandas", "NumPy"
+    ],
+    "devops": [
+        "Docker",
+        "GitHub Actions",
+        "Local & cloud deployments"
+    ],
+    "education": [
+        "Curriculum design",
+        "Gamified learning",
+        "Music & STEM integration"
+    ],
+    "hobbies": ["Piano 🎹", "Chess ♟️", "Running 🏃"]
 }
-```
-
-<details>
- <summary><h3>👨‍💻 What I'm Learning</h3></summary>
-   - BeautifulSoup, Selenium, Scrapy for a web scrapping and crawling project <br />
-   - Statistics and Data Science  
-
