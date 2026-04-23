@@ -14,5 +14,3 @@ building scalable, real-time applications with ML and data-driven features.
   tracking, teacher portal, and Stripe subscription integration
 - **Draft Recommendation Engine** — ML-powered video game draft tool 
   achieving sub-200ms response times across 10,000+ match records for Mobile Game: Epic Seven
-
-## 📫 Let's connect
