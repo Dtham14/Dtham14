@@ -10,7 +10,11 @@ building scalable, real-time applications with ML and data-driven features.
 **Tools:** Git, Docker, AWS, Supabase, Stripe
 
 ## 🚀 Featured Projects
-- **QuizNotes** — Gamified music theory platform with real-time progress 
-  tracking, teacher portal, and Stripe subscription integration
-- **Draft Recommendation Engine** — ML-powered video game draft tool 
-  achieving sub-200ms response times across 10,000+ match records for Mobile Game: Epic Seven
+- **[QuizNotes](https://www.quiznotes.ca/)** — Gamified music theory platform
+  with real-time progress tracking, teacher portal, and Stripe subscription integration
+- **[Epic Seven Draft Tool](https://epic-seven-real-time-arena-draft.onrender.com/)** — 
+  ML-powered video game draft recommendation engine achieving sub-200ms 
+  response times across 10,000+ match records
+
+## 📫 Let's connect
+[LinkedIn](https://www.linkedin.com/in/dtham14/) · [Email](mailto:dantham14@gmail.com)
